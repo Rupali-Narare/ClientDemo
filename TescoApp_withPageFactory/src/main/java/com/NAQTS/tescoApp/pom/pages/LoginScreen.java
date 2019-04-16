@@ -31,7 +31,6 @@ public class LoginScreen extends Base{
 		@AndroidFindBy(xpath = "//*[@text='Sign in']")
 		public MobileElement signInBtn;
 		
-		
 		//WebDriverWait wait = new WebDriverWait(driver, 60);
 
 		//Login to the app using given credentials
